@@ -1,5 +1,9 @@
 # Práctica 2 de laboratorio - API de Procesos #
 
+## Miembros del grupo
+* DANIELA ANDREA PAVAS BEDOYA, CC 1192741700, Ingeniería de Sistemas
+* GIOVANI CARDONA MARÍN, CC 1035913434, Ingeniería de Sistemas
+
 ## Instrucciones ##
 Antes de comenzar a trabajar en esta práctica se recomienda que lleve a cabo los siguientes pasos:
 1. Haga un fork de este repositorio.
